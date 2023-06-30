@@ -18,16 +18,16 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/Harpreet24/Chicken-disease-classification
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n cnndis python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate cnndis
 ```
 
 
